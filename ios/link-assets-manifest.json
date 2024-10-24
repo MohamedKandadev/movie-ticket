@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Oxygen-Bold.ttf",
+      "sha1": "821b9d11d801f06dedf9553c25ba206ddbb87069"
+    },
+    {
+      "path": "assets/fonts/Oxygen-Light.ttf",
+      "sha1": "55a24e1af6c48066de1944c7014f000517114f58"
+    },
+    {
+      "path": "assets/fonts/Oxygen-Regular.ttf",
+      "sha1": "8784ac1d1f0e31899de0a9af36f55dddee8c7e4c"
+    }
+  ]
+}

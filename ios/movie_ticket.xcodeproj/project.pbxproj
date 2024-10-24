@@ -12,9 +12,12 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		2D82C9A9A8B44A0EB0FD7398 /* Oxygen-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 776B3749B30A49A0B62A41DC /* Oxygen-Light.ttf */; };
+		4E707884C7AA403BADBCC463 /* Oxygen-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CD76AE0750934131A75695EA /* Oxygen-Bold.ttf */; };
 		518B19A484311AB24FB764E3 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = F6454BEA0C401AF680C7E30C /* PrivacyInfo.xcprivacy */; };
 		7699B88040F8A987B510C191 /* libPods-movie_ticket-movie_ticketTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-movie_ticket-movie_ticketTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		AAD02A910EFA44F38AD19E60 /* Oxygen-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 20D6F496640147FABED70761 /* Oxygen-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,12 +42,15 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = movie_ticket/main.m; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = movie_ticket/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-movie_ticket-movie_ticketTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-movie_ticket-movie_ticketTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		20D6F496640147FABED70761 /* Oxygen-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Oxygen-Regular.ttf"; path = "../assets/fonts/Oxygen-Regular.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-movie_ticket.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-movie_ticket.debug.xcconfig"; path = "Target Support Files/Pods-movie_ticket/Pods-movie_ticket.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-movie_ticket.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-movie_ticket.release.xcconfig"; path = "Target Support Files/Pods-movie_ticket/Pods-movie_ticket.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-movie_ticket-movie_ticketTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-movie_ticket-movie_ticketTests.debug.xcconfig"; path = "Target Support Files/Pods-movie_ticket-movie_ticketTests/Pods-movie_ticket-movie_ticketTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-movie_ticket.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-movie_ticket.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		776B3749B30A49A0B62A41DC /* Oxygen-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Oxygen-Light.ttf"; path = "../assets/fonts/Oxygen-Light.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = movie_ticket/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-movie_ticket-movie_ticketTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-movie_ticket-movie_ticketTests.release.xcconfig"; path = "Target Support Files/Pods-movie_ticket-movie_ticketTests/Pods-movie_ticket-movie_ticketTests.release.xcconfig"; sourceTree = "<group>"; };
+		CD76AE0750934131A75695EA /* Oxygen-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Oxygen-Bold.ttf"; path = "../assets/fonts/Oxygen-Bold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F6454BEA0C401AF680C7E30C /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = movie_ticket/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -127,6 +133,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				98364BD738794E0B82CBBA9D /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -140,6 +147,17 @@
 				00E356EE1AD99517003FC87E /* movie_ticketTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		98364BD738794E0B82CBBA9D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				CD76AE0750934131A75695EA /* Oxygen-Bold.ttf */,
+				776B3749B30A49A0B62A41DC /* Oxygen-Light.ttf */,
+				20D6F496640147FABED70761 /* Oxygen-Regular.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -249,6 +267,9 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				518B19A484311AB24FB764E3 /* PrivacyInfo.xcprivacy in Resources */,
+				4E707884C7AA403BADBCC463 /* Oxygen-Bold.ttf in Resources */,
+				2D82C9A9A8B44A0EB0FD7398 /* Oxygen-Light.ttf in Resources */,
+				AAD02A910EFA44F38AD19E60 /* Oxygen-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
